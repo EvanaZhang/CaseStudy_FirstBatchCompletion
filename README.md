@@ -35,7 +35,7 @@ Based on the findings, the following recommendations can be made:
 
 ## Slides and Appendix
 
-Please refer to the attached [slides](link-to-slides) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
+Please refer to the attached [slides](https://github.com/EvanaZhang/CaseStudy_FirstBatchCompletion/blob/main/CaseStudy_FirstBatchCompletion.pdf) for a summary of the findings and recommendations. The appendix contains additional content, including code snippets and workbooks used for the analysis.
 
 Thank you for your interest in this A/B test analysis. Should you have any further questions or require additional information, please feel free to reach out to us.
 ![image](https://github.com/EvanaZhang/CaseStudy_FirstBatchCompletion/assets/57610921/c5c07529-e91c-4387-b34b-b4cba6588e64)
